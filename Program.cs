@@ -7,7 +7,6 @@ myMagikarp.attack = 0;
 myMagikarp.DoSplash();
 Console.WriteLine(myMagikarp.description);
 
-
 Console.ReadKey();
 
 class Magikarp
